@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "Prashanth"
+title_right   : " S" # default: ""
+description   : ""
+keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace, product management, prashanth, product manager, blogs, india, bangalore"
+url           : https://prashanth3690.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,12 +28,13 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Prashanth S"
 
 plugins:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
+  - jemoji
 
 # navbar pages
 navbar:

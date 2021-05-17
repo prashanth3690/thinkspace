@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hello, I am Prashanth.
+Currently :briefcase: at [ThoughtWorks](https://www.ThoughtWorks.com) as a Product Manager.
