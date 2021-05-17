@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Prashanth"
 title_right   : " S" # default: ""
-description   : ""
+description   : "My Scribble Pad"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace, product management, prashanth, product manager, blogs, india, bangalore"
 url           : https://prashanth3690.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
