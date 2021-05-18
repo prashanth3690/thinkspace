@@ -1,3 +1,12 @@
+---
+layout: post
+title: "My takeaways from the JRE<>Naval Ravikant podcast"
+comments: true
+description: "One of my all time favourite podcasts"
+keywords: "JRE, Joe Rogan, Naval, Ravikant, Joe, Rogan, Experience, Joe Rogan Experience"
+author: Prashanth S
+---
+
 # Takeaways/notes from the JRE - Naval Ravikant Episode
 
 One of the best podcasts I've heard yet! I'm a big fan of the JRE (Joe Rogan Experience) and this episode with [Naval Ravikant](https://en.wikipedia.org/wiki/Naval_Ravikant) is very mentally stimulating and a treat to listen to !
